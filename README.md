@@ -41,7 +41,4 @@ Beyond development, I'm actively involved in technical communities, leading team
 
 ---
 
-<p align="center">
-  ✨ Thanks for visiting! Let's build something impactful together. ✨
-</p>
 
