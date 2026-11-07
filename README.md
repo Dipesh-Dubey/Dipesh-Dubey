@@ -6,39 +6,26 @@
 
 ---
 
-### 🚀 About Me
+### > About Me
 
-- 🎓 Computer Science Undergraduate @ CBIT, Hyderabad
-- 👑 President – Literary Club
-- 💻 Vice President – Technical Club
-- ⚡ Head, Technical Team – NexIoT, CBIT
-- 🤖 Interested in AI, Machine Learning, RAG & Blockchain
-- 🏆 HackIndia National Hackathon Finalist – Top 12 Teams
-- 🧠 Solved 200+ DSA Problems on LeetCode
-- 🌱 Building intelligent applications with real-world impact
+Hi, I'm Dipesh Dubey, a Computer Science Engineering undergraduate at CBIT, Hyderabad, passionate about building intelligent applications, scalable software systems, and solving real-world problems through technology. I enjoy exploring new technologies, experimenting with ideas, and turning them into practical solutions.
+
+Currently, I'm focused on strengthening my expertise in Data Structures & Algorithms, Full Stack Development, AI/ML, Generative AI, and Blockchain. I enjoy working across different areas of software development, from designing backend systems and APIs to building AI-powered applications using LLMs, RAG, and vector databases.
+
+Beyond development, I'm actively involved in technical communities, leading teams, participating in hackathons, and contributing to collaborative projects. I believe in continuous learning, building things that matter, and growing through hands-on experience.
 
 ---
 
-## ⚡ Tech Stack
+## > Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,express,fastapi,django,html,css,tailwind,mongodb,mysql,git,github,firebase,azure,solidity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,fastapi,html,css,tailwind,mongodb,mysql,git,github,firebase,azure,solidity&theme=dark" />
 </p>
 
 ---
 
-## 🛠️ Featured Projects
 
-- 🔗 **Cypher** – Blockchain-based Digital Credential Issuance & Verification System
-- 🏡 **Blockchain Land Registry** – Secure Land Registration with OCR, NLP, AI Fraud Detection & Zero-Knowledge Proofs
-- 🤖 **VectorStack-AI** – Custom Vector Database and RAG Engine
-- 🏥 **MediMind AI** – Intelligent Healthcare Management System
-- 👁️ **Photomotive** – AI-powered Object Detection using YOLO
-- 🦯 **SDMP Blind Aid Stick** – IoT and AI-powered Assistive Technology
-
----
-
-## 🌍 Connect With Me
+## > Connect With Me
 
 <p align="center">
   <a href="https://github.com/Dipesh-Dubey">
